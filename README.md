@@ -37,21 +37,21 @@ The backend of the Airbnb Clone project is built to deliver a reliable and scala
 
 * **Product Owner (PO):** Owns the product vision, prioritizes the feature backlog (e.g. payment integration, property listings) and ensures the final product meets user expectations and market needs.
 
-* **Project Manager (PM)** Coordinates timelines, team tasks, and progress to ensure smooth delivery of the Airbnb clone within budget and deadline, managing Agile iterations and communication.
+* **Project Manager (PM):** Coordinates timelines, team tasks, and progress to ensure smooth delivery of the Airbnb clone within budget and deadline, managing Agile iterations and communication.
 
-* **UI/UX Designer** Designs intuitive user flows and interfaces for booking properties, viewing listings, managing profiles, and leaving reviews, ensuring a seamless user experience across devices.
+* **UI/UX Designer:** Designs intuitive user flows and interfaces for booking properties, viewing listings, managing profiles, and leaving reviews, ensuring a seamless user experience across devices.
 
-* **Software Architect** Defines the system architecture (e.g. Django backend + PostgreSQL + Redis), selects tools like Celery for background tasks, and ensures scalable, secure software structure.
+* **Software Architect:** Defines the system architecture (e.g. Django backend + PostgreSQL + Redis), selects tools like Celery for background tasks, and ensures scalable, secure software structure.
 
-* **Backend Developer** Builds and maintains core application logic. APIs for property listings, bookings, user management, payment processing, database schemas, and background tasks with Celery.
+* **Backend Developer:** Builds and maintains core application logic. APIs for property listings, bookings, user management, payment processing, database schemas, and background tasks with Celery.
 
-* **Frontend Developer** Implements the user-facing interface. Develops responsive pages for browsing, booking, reviews, and dashboards, integrating with backend APIs.
+* **Frontend Developer:** Implements the user-facing interface. Develops responsive pages for browsing, booking, reviews, and dashboards, integrating with backend APIs.
 
-* **Quality Assurance Engineer** Manually tests the app’s functionality. Validating that bookings, payments, and user actions perform correctly under various conditions.
+* **Quality Assurance Engineer:** Manually tests the app’s functionality. Validating that bookings, payments, and user actions perform correctly under various conditions.
 
-* **Test Automation Engineer** Creates automated tests for critical flows like login, bookings, and payments to ensure reliable updates and quick feedback during development.
+* **Test Automation Engineer:** Creates automated tests for critical flows like login, bookings, and payments to ensure reliable updates and quick feedback during development.
 
-* **Devops Engineer** Sets up and manages CI/CD pipelines, Docker environments, and deployment workflows, enabling fast, stable, and consistent releases.
+* **Devops Engineer:** Sets up and manages CI/CD pipelines, Docker environments, and deployment workflows, enabling fast, stable, and consistent releases.
 
 ## Database Design
 
